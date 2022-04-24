@@ -1,3 +1,7 @@
+# React Task Tracker
+
+It's always good to review the fundamentals. Built this app for that purpose.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
